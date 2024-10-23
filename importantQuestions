@@ -1,18 +1,20 @@
-DAILY:
+# DAILY:-
 1 https://leetcode.com/problems/maximal-score-after-applying-k-operations/submissions/1421870717/?envType=daily-question&envId=2024-10-14 
 2 https://leetcode.com/problems/separate-black-and-white-balls/?envType=daily-question&envId=2024-10-15
 3 https://leetcode.com/problems/longest-happy-string/?envType=daily-question&envId=2024-10-16
 
 
-ARRAYS:-
+# ARRAYS:-
 1 https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1
 2 https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1
 3 https://leetcode.com/problems/sort-colors/description/
 4 https://leetcode.com/problems/next-permutation/
 5 https://www.naukri.com/code360/problems/longest-consecutive-sequence_759408
 6 https://leetcode.com/problems/merge-intervals/
-7 https://www.geeksforgeeks.org/problems/inversion-of-array- 1587115620/1
-BINARY SEARCH  &&  STRINGS:-
+7 https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1
+
+
+# BINARY SEARCH  &&  STRINGS:-
 1 https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 2 https://leetcode.com/problems/koko-eating-bananas/description/
 3 https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
@@ -24,7 +26,7 @@ BINARY SEARCH  &&  STRINGS:-
 9 https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1 
 10 https://leetcode.com/problems/string-to-integer-atoi/description/
 
-RECURSSION
+# RECURSSION
 
 1 https://leetcode.com/problems/powx-n/description/
 2 https://www.geeksforgeeks.org/problems/sort-a-stack/1
@@ -40,13 +42,12 @@ RECURSSION
 12 https://leetcode.com/problems/word-search/submissions/1428943832/
 13 https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/description/?envType=daily-question&envId=2024-10-21
 
+# STACKS && QUEUES
 
-
-STACKS && QUEUES
 1 https://leetcode.com/problems/next-greater-element-ii/description/
 2 https://leetcode.com/problems/sum-of-subarray-minimums/ => https://www.youtube.com/watch?v=HRQB7-D2bi0
+3 https://leetcode.com/problems/sum-of-subarray-ranges/
 
-3 
 
 
 
