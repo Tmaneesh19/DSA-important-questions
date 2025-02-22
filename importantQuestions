@@ -215,3 +215,10 @@ bits involved ques:-
 3 https://leetcode.com/problems/permutation-sequence/description/ 
 4 https://www.youtube.com/results?search_query=palindrome-permutation-ii
 5 https://algo.monster/liteproblems/2123
+
+
+
+
+ # imp:
+
+ if we use curr.back() then we have to use v[i][0] to compare....where curr="abc" and v=['a','b','c'];
