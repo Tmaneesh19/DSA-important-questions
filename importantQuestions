@@ -256,7 +256,7 @@ https://leetcode.com/problems/longest-substring-of-one-repeating-character/descr
 11 https://algo.monster/liteproblems/2158
 12 https://leetcode.com/problems/longest-substring-of-one-repeating-character/description/
 13 https://leetcode.com/problems/count-integers-in-intervals/description/
-
+14 https://leetcode.ca/2024-11-09-3323-Minimize-Connected-Groups-by-Inserting-Interval/
  # imp:
 
  if we use curr.back() then we have to use v[i][0] to compare....where curr="abc" and v=['a','b','c'];
