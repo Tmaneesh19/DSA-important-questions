@@ -80,28 +80,6 @@ bits involved ques:-
 42 https://www.geeksforgeeks.org/problems/max-sum-in-the-configuration/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 43 https://leetcode.com/problems/shortest-common-supersequence/description/?envType=daily-question&envId=2025-02-28
 44 https://leetcode.com/problems/3sum-closest/description/
 45 https://algo.monster/liteproblems/259
@@ -162,3 +140,6 @@ https://leetcode.com/problems/longest-substring-of-one-repeating-character/descr
  # imp:
 
  if we use curr.back() then we have to use v[i][0] to compare....where curr="abc" and v=['a','b','c'];
+
+
+ 
